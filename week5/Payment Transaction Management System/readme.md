@@ -24,9 +24,3 @@ REPORT 2: REVENUE ANALYSIS
 
 
 
-ER DIAGRAM:
-
-
-
-
-<img width="931" height="980" alt="image" src="https://github.com/user-attachments/assets/f0bf3e65-c583-4667-807c-27d0b1ca11ea" />
